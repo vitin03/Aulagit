@@ -1,6 +1,6 @@
 ``` python
 
-def_func(int V1)
+def func(int V1)
 
 ```
 
